@@ -1,4 +1,4 @@
-android-ribbit
-==============
+Treehouse Ribbit (Android)
+=============================
 
-Project files for the Build a Self-Destructing Message Android App course
+These are the full project files for the Ribbit app used in Treehouse's Build a Self-Destructing Message Android App course.
